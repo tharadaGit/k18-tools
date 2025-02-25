@@ -1,0 +1,1 @@
+-rw-r--r--. 1 1002 1002 3379 Feb 25 10:51 ../scaler_2025jan/scaler_72964.txt

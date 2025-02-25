@@ -1,0 +1,10 @@
+#gitignore
+*.[doa]
+*~
+*.root
+*.pdf
+*.so
+*.pcm
+*.pyc
+*.swp
+\#*
